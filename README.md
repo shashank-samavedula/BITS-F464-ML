@@ -19,7 +19,7 @@ Implementation and comparison of the following algorithms on a law enforcement a
 
 **Project - Machine Learning for Sustainable Development Goals**
 
-Implementation four ML Models to predict wildfires in the northeast region of Portugal. The algorithms chosen for the project are:
+Implementation and comparison four ML Models to predict wildfires in the northeast region of Portugal. The algorithms chosen for the project are:
 
 1. K-Nearest Neighbors
 2. Multinomial Naive Bayes using Laplace Smoothing
