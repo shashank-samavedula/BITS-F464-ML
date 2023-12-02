@@ -1,4 +1,4 @@
-# BITS-F464-ML
+# BITS F464 Machine Learning
 My notes, assignments and project of the course BITS F464 Machine Learning taught by Prof. Manik Gupta in Sem II 2023-24 at BITS Pilani, Hyderabad Campus.
 
 **Assignment - 1**
